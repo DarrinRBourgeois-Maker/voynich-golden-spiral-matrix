@@ -49,7 +49,7 @@ SYSTEM STATUS  : VERIFIED SUCCESSFUL. Output matches Zenodo archive data.
 ## Citation
 If you utilize this framework, build upon this algorithmic model, or reference these datasets in your research, please cite the permanent academic archive record:
 
-> Bourgeois, D. R. (2026). *A Rational Double-Pass Matrix Model for the Voynich Manuscript Utilizing Discrete Fibonacci, $\pi$, and $\Phi$ Cross-Sectional Constraints.* Zenodo. https://doi.org
+> Bourgeois, D. R. (2026). *A Rational Double-Pass Matrix Model for the Voynich Manuscript Utilizing Discrete Fibonacci, $\pi$, and $\Phi$ Cross-Sectional Constraints.* https://zenodo.org/records/23815811
 
 ---
 *Copyright © 2026 Darrin R. Bourgeois. All rights reserved. Distributed under the MIT License.*
